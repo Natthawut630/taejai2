@@ -34,8 +34,8 @@ class _ProjectListPageState extends State<ProjectListPage> {
       receiveAmount: 400000,
       donateCount: 8,
       imageUrl: 'assets/images/project02.jpg',
-      timeProject: '',
-      areaProject: '',
+      timeProject: '01 ก.พ. 2566 ถึง 30 มิ.ย. 2566',
+      areaProject: 'ภาคตะวันออกเฉียงเหนือ ภาคตะวันตกและภาคใต้ของประเทศไทย',
     ),
     Project(
       title: 'พาพญาแร้งที่สูญพันธุ์จากธรรมชาติกลับคืนป่าเมืองไทย',
@@ -46,8 +46,8 @@ class _ProjectListPageState extends State<ProjectListPage> {
       receiveAmount: 200000,
       donateCount: 28,
       imageUrl: 'assets/images/project03.jpg',
-      areaProject: '',
-      timeProject: '',
+      areaProject: '01 ก.พ. 2566 ถึง 31 ม.ค. 2567',
+      timeProject: 'ตำบลลานสัก อำเภอลานสัก จังหวัดอุทัยธานี (เขตรักษาพันธุ์สัตว์ป่าห้วยขาแข้งและพื้นที่โดยรอบ), ตำบลไชยมงคล อำเภอเมืองนครราชสีมา จังหวัดนครราชสีมา (สวนสัตว์นครราชสีมา)',
     ),
   ];
 
